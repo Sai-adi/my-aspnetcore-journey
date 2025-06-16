@@ -28,3 +28,4 @@ D:\MyFirstWebApp\obj\Debug\net8.0\refint\MyFirstWebApp.dll
 D:\MyFirstWebApp\obj\Debug\net8.0\MyFirstWebApp.pdb
 D:\MyFirstWebApp\obj\Debug\net8.0\MyFirstWebApp.genruntimeconfig.cache
 D:\MyFirstWebApp\obj\Debug\net8.0\ref\MyFirstWebApp.dll
+D:\MyFirstWebApp\obj\Debug\net8.0\MyFirstWebApp.sourcelink.json
